@@ -1,4 +1,3 @@
-it will be my first pull in a GitHub
-Now I can say like this... "Hey, I can use GitHub and I know remote repository and local repository"
-"and It is real ammazing"
-Thank you hear me :)
+It will be my first Pull with a remote repository & Local repository.
+Now I know The GitHub 
+It is amazing :)
