@@ -1,3 +1,7 @@
 It will be my first Pull with a remote repository & Local repository.
 Now I know The GitHub 
 It is amazing :)
+
+
+Study again! edit oull_test.txt in a Miro_office directory
+and the commit message will be a "push In Miro_ofiice"
