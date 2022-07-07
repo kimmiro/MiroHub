@@ -4,4 +4,9 @@ It is amazing :)
 
 
 Study again! edit oull_test.txt in a Miro_office directory
-and the commit message will be a "push In Miro_ofiice"
+and the commit message will be a "push in a Miro_ofiice"
+
+
+Now I am in a Miro_home directory
+and still study again! 
+the commit message will be a "push in a Miro_home"
